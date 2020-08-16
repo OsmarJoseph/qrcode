@@ -19,7 +19,7 @@ export default function Routes () {
         }}
       >
         <Stack.Screen
-          name="Scanner"
+          name="Scanner testing"
           component={Scanner}
           options={{
             headerStyle: {
