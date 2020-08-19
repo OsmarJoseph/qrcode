@@ -22,7 +22,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.osmar.scanner"
     },
     "android": {
       "package": "com.osmar.scanner",
